@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\LikeISaid\bin\Debug\LikeISaid.exe.config
+c:\users\user\documents\visual studio 2015\Projects\LikeISaid\bin\Debug\LikeISaid.exe
+c:\users\user\documents\visual studio 2015\Projects\LikeISaid\bin\Debug\LikeISaid.pdb
+c:\users\user\documents\visual studio 2015\Projects\LikeISaid\obj\Debug\LikeISaid.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\LikeISaid\obj\Debug\LikeISaid.exe
+c:\users\user\documents\visual studio 2015\Projects\LikeISaid\obj\Debug\LikeISaid.pdb

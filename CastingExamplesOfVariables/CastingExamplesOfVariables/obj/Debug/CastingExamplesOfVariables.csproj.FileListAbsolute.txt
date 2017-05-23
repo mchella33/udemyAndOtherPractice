@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\CastingExamplesOfVariables\CastingExamplesOfVariables\bin\Debug\CastingExamplesOfVariables.exe.config
+c:\users\user\documents\visual studio 2015\Projects\CastingExamplesOfVariables\CastingExamplesOfVariables\obj\Debug\CastingExamplesOfVariables.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\CastingExamplesOfVariables\CastingExamplesOfVariables\obj\Debug\CastingExamplesOfVariables.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\CastingExamplesOfVariables\CastingExamplesOfVariables\obj\Debug\CastingExamplesOfVariables.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\CastingExamplesOfVariables\CastingExamplesOfVariables\obj\Debug\CastingExamplesOfVariables.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\CastingExamplesOfVariables\CastingExamplesOfVariables\bin\Debug\CastingExamplesOfVariables.exe
+c:\users\user\documents\visual studio 2015\Projects\CastingExamplesOfVariables\CastingExamplesOfVariables\bin\Debug\CastingExamplesOfVariables.pdb
+c:\users\user\documents\visual studio 2015\Projects\CastingExamplesOfVariables\CastingExamplesOfVariables\obj\Debug\CastingExamplesOfVariables.exe
+c:\users\user\documents\visual studio 2015\Projects\CastingExamplesOfVariables\CastingExamplesOfVariables\obj\Debug\CastingExamplesOfVariables.pdb

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AnthonyModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Pictures">
+    <Key>
+      <PropertyRef Name="PictureId" />
+    </Key>
+    <Property Name="PictureId" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="PictureUrl" Type="nvarchar" MaxLength="500" Nullable="false" />
+    <Property Name="DateOfPicture" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="VisitorName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Caption" Type="nvarchar" MaxLength="500" Nullable="false" />
+    <Property Name="DatePicturePosted" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Storys">
+    <Key>
+      <PropertyRef Name="StoryId" />
+    </Key>
+    <Property Name="StoryId" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="Story" Type="nvarchar" MaxLength="4000" Nullable="false" />
+    <Property Name="StoryTeller" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Url" Type="nvarchar" MaxLength="500" />
+    <Property Name="DateOfStory" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="DatePosted" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Visitors">
+    <Key>
+      <PropertyRef Name="VisitorId" />
+    </Key>
+    <Property Name="VisitorId" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Message" Type="nvarchar" MaxLength="500" Nullable="false" />
+    <Property Name="DatePosted" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="AnthonyModelStoreContainer">
+    <EntitySet Name="Pictures" EntityType="Self.Pictures" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Storys" EntityType="Self.Storys" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Visitors" EntityType="Self.Visitors" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

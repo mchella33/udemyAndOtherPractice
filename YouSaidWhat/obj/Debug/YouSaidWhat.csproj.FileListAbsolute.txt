@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\YouSaidWhat\bin\Debug\YouSaidWhat.exe.config
+c:\users\user\documents\visual studio 2015\Projects\YouSaidWhat\bin\Debug\YouSaidWhat.exe
+c:\users\user\documents\visual studio 2015\Projects\YouSaidWhat\bin\Debug\YouSaidWhat.pdb
+c:\users\user\documents\visual studio 2015\Projects\YouSaidWhat\obj\Debug\YouSaidWhat.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\YouSaidWhat\obj\Debug\YouSaidWhat.exe
+c:\users\user\documents\visual studio 2015\Projects\YouSaidWhat\obj\Debug\YouSaidWhat.pdb

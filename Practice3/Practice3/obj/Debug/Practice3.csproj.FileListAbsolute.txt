@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Practice3\Practice3\bin\Debug\Practice3.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Practice3\Practice3\bin\Debug\Practice3.exe
+c:\users\user\documents\visual studio 2015\Projects\Practice3\Practice3\bin\Debug\Practice3.pdb
+c:\users\user\documents\visual studio 2015\Projects\Practice3\Practice3\obj\Debug\Practice3.exe
+c:\users\user\documents\visual studio 2015\Projects\Practice3\Practice3\obj\Debug\Practice3.pdb
+c:\users\user\documents\visual studio 2015\Projects\Practice3\Practice3\obj\Debug\Practice3.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\ForeachLoops\ForeachLoops\bin\Debug\ForeachLoops.exe.config
+c:\users\user\documents\visual studio 2015\Projects\ForeachLoops\ForeachLoops\bin\Debug\ForeachLoops.exe
+c:\users\user\documents\visual studio 2015\Projects\ForeachLoops\ForeachLoops\bin\Debug\ForeachLoops.pdb
+c:\users\user\documents\visual studio 2015\Projects\ForeachLoops\ForeachLoops\obj\Debug\ForeachLoops.exe
+c:\users\user\documents\visual studio 2015\Projects\ForeachLoops\ForeachLoops\obj\Debug\ForeachLoops.pdb

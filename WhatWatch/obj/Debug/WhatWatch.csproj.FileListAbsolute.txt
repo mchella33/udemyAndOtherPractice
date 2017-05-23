@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\WhatWatch\bin\Debug\WhatWatch.exe.config
+c:\users\user\documents\visual studio 2015\Projects\WhatWatch\bin\Debug\WhatWatch.exe
+c:\users\user\documents\visual studio 2015\Projects\WhatWatch\bin\Debug\WhatWatch.pdb
+c:\users\user\documents\visual studio 2015\Projects\WhatWatch\obj\Debug\WhatWatch.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\WhatWatch\obj\Debug\WhatWatch.exe
+c:\users\user\documents\visual studio 2015\Projects\WhatWatch\obj\Debug\WhatWatch.pdb

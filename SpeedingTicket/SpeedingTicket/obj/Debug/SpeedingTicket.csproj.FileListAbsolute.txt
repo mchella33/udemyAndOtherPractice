@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\SpeedingTicket\SpeedingTicket\bin\Debug\SpeedingTicket.exe.config
+c:\users\user\documents\visual studio 2015\Projects\SpeedingTicket\SpeedingTicket\obj\Debug\SpeedingTicket.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\SpeedingTicket\SpeedingTicket\bin\Debug\SpeedingTicket.exe
+c:\users\user\documents\visual studio 2015\Projects\SpeedingTicket\SpeedingTicket\bin\Debug\SpeedingTicket.pdb
+c:\users\user\documents\visual studio 2015\Projects\SpeedingTicket\SpeedingTicket\obj\Debug\SpeedingTicket.exe
+c:\users\user\documents\visual studio 2015\Projects\SpeedingTicket\SpeedingTicket\obj\Debug\SpeedingTicket.pdb

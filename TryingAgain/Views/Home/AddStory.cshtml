@@ -1,0 +1,48 @@
+﻿@model TryingAgain.Entities.Story
+@{
+    ViewBag.Title = "AddStory";
+}
+
+<h2>AddStory</h2>
+
+@using (Html.BeginForm())
+{
+    @*@Html.ValidationSummary(true)
+    @Html.AntiForgeryToken()*@
+    <fieldset>
+        <legend>Speed Dating Registration</legend>
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Story1)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Story1)
+            @Html.ValidationMessageFor(model => model.Story1)
+        </div>
+        <div class="editor-label">
+            @Html.LabelFor(model => model.StoryTeller)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.StoryTeller)
+            @Html.ValidationMessageFor(model => model.StoryTeller)
+        </div>
+        <div class="editor-label">
+            @Html.LabelFor(model => model.DateOfStory)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.DateOfStory)
+            @Html.ValidationMessageFor(model => model.DateOfStory)
+        </div>
+      
+        <div class="editor-label">
+            @Html.Label("PostTime")
+        </div>
+        <p>
+            <input type="submit" value="Add your Story" />
+        </p>
+
+    </fieldset>
+
+    <div>
+        @Html.ActionLink("Home", "Index","Home")
+    </div>
+}

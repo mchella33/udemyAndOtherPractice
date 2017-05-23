@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\SloppyJoe\SloppyJoe\bin\Debug\SloppyJoe.exe.config
+c:\users\user\documents\visual studio 2015\Projects\SloppyJoe\SloppyJoe\bin\Debug\SloppyJoe.exe
+c:\users\user\documents\visual studio 2015\Projects\SloppyJoe\SloppyJoe\bin\Debug\SloppyJoe.pdb
+c:\users\user\documents\visual studio 2015\Projects\SloppyJoe\SloppyJoe\obj\Debug\SloppyJoe.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\SloppyJoe\SloppyJoe\obj\Debug\SloppyJoe.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\SloppyJoe\SloppyJoe\obj\Debug\SloppyJoe.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\SloppyJoe\SloppyJoe\obj\Debug\SloppyJoe.exe
+c:\users\user\documents\visual studio 2015\Projects\SloppyJoe\SloppyJoe\obj\Debug\SloppyJoe.pdb
+c:\users\user\documents\visual studio 2015\Projects\SloppyJoe\SloppyJoe\obj\Debug\SloppyJoe.Form1.resources

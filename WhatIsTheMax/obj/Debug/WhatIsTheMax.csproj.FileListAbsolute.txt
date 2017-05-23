@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\WhatIsTheMax\bin\Debug\WhatIsTheMax.exe.config
+c:\users\user\documents\visual studio 2015\Projects\WhatIsTheMax\bin\Debug\WhatIsTheMax.exe
+c:\users\user\documents\visual studio 2015\Projects\WhatIsTheMax\bin\Debug\WhatIsTheMax.pdb
+c:\users\user\documents\visual studio 2015\Projects\WhatIsTheMax\obj\Debug\WhatIsTheMax.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\WhatIsTheMax\obj\Debug\WhatIsTheMax.exe
+c:\users\user\documents\visual studio 2015\Projects\WhatIsTheMax\obj\Debug\WhatIsTheMax.pdb

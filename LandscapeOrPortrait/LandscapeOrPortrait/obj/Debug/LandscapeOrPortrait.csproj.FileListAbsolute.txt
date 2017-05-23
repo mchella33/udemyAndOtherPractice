@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\LandscapeOrPortrait\LandscapeOrPortrait\bin\Debug\LandscapeOrPortrait.exe.config
+c:\users\user\documents\visual studio 2015\Projects\LandscapeOrPortrait\LandscapeOrPortrait\bin\Debug\LandscapeOrPortrait.exe
+c:\users\user\documents\visual studio 2015\Projects\LandscapeOrPortrait\LandscapeOrPortrait\bin\Debug\LandscapeOrPortrait.pdb
+c:\users\user\documents\visual studio 2015\Projects\LandscapeOrPortrait\LandscapeOrPortrait\obj\Debug\LandscapeOrPortrait.exe
+c:\users\user\documents\visual studio 2015\Projects\LandscapeOrPortrait\LandscapeOrPortrait\obj\Debug\LandscapeOrPortrait.pdb

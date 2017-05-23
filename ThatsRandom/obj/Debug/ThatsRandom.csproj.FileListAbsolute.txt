@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\ThatsRandom\bin\Debug\ThatsRandom.exe.config
+c:\users\user\documents\visual studio 2015\Projects\ThatsRandom\bin\Debug\ThatsRandom.exe
+c:\users\user\documents\visual studio 2015\Projects\ThatsRandom\bin\Debug\ThatsRandom.pdb
+c:\users\user\documents\visual studio 2015\Projects\ThatsRandom\obj\Debug\ThatsRandom.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\ThatsRandom\obj\Debug\ThatsRandom.exe
+c:\users\user\documents\visual studio 2015\Projects\ThatsRandom\obj\Debug\ThatsRandom.pdb

@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\PartyPlanningRedo\PartyPlanningRedo\bin\Debug\PartyPlanningRedo.exe.config
+c:\users\user\documents\visual studio 2015\Projects\PartyPlanningRedo\PartyPlanningRedo\bin\Debug\PartyPlanningRedo.exe
+c:\users\user\documents\visual studio 2015\Projects\PartyPlanningRedo\PartyPlanningRedo\bin\Debug\PartyPlanningRedo.pdb
+c:\users\user\documents\visual studio 2015\Projects\PartyPlanningRedo\PartyPlanningRedo\obj\Debug\PartyPlanningRedo.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\PartyPlanningRedo\PartyPlanningRedo\obj\Debug\PartyPlanningRedo.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\PartyPlanningRedo\PartyPlanningRedo\obj\Debug\PartyPlanningRedo.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\PartyPlanningRedo\PartyPlanningRedo\obj\Debug\PartyPlanningRedo.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\PartyPlanningRedo\PartyPlanningRedo\obj\Debug\PartyPlanningRedo.exe
+c:\users\user\documents\visual studio 2015\Projects\PartyPlanningRedo\PartyPlanningRedo\obj\Debug\PartyPlanningRedo.pdb

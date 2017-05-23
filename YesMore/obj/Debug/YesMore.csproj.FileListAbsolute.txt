@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\YesMore\bin\Debug\YesMore.exe.config
+c:\users\user\documents\visual studio 2015\Projects\YesMore\bin\Debug\YesMore.exe
+c:\users\user\documents\visual studio 2015\Projects\YesMore\bin\Debug\YesMore.pdb
+c:\users\user\documents\visual studio 2015\Projects\YesMore\obj\Debug\YesMore.exe
+c:\users\user\documents\visual studio 2015\Projects\YesMore\obj\Debug\YesMore.pdb

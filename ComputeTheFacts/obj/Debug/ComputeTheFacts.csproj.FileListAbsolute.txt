@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\ComputeTheFacts\bin\Debug\ComputeTheFacts.exe.config
+c:\users\user\documents\visual studio 2015\Projects\ComputeTheFacts\bin\Debug\ComputeTheFacts.exe
+c:\users\user\documents\visual studio 2015\Projects\ComputeTheFacts\bin\Debug\ComputeTheFacts.pdb
+c:\users\user\documents\visual studio 2015\Projects\ComputeTheFacts\obj\Debug\ComputeTheFacts.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\ComputeTheFacts\obj\Debug\ComputeTheFacts.exe
+c:\users\user\documents\visual studio 2015\Projects\ComputeTheFacts\obj\Debug\ComputeTheFacts.pdb

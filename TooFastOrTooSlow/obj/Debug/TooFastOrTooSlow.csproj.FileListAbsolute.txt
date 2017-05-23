@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\TooFastOrTooSlow\bin\Debug\TooFastOrTooSlow.exe.config
+c:\users\user\documents\visual studio 2015\Projects\TooFastOrTooSlow\bin\Debug\TooFastOrTooSlow.exe
+c:\users\user\documents\visual studio 2015\Projects\TooFastOrTooSlow\bin\Debug\TooFastOrTooSlow.pdb
+c:\users\user\documents\visual studio 2015\Projects\TooFastOrTooSlow\obj\Debug\TooFastOrTooSlow.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\TooFastOrTooSlow\obj\Debug\TooFastOrTooSlow.exe
+c:\users\user\documents\visual studio 2015\Projects\TooFastOrTooSlow\obj\Debug\TooFastOrTooSlow.pdb

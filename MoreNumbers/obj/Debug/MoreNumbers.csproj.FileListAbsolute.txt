@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\MoreNumbers\bin\Debug\MoreNumbers.exe.config
+c:\users\user\documents\visual studio 2015\Projects\MoreNumbers\bin\Debug\MoreNumbers.exe
+c:\users\user\documents\visual studio 2015\Projects\MoreNumbers\bin\Debug\MoreNumbers.pdb
+c:\users\user\documents\visual studio 2015\Projects\MoreNumbers\obj\Debug\MoreNumbers.exe
+c:\users\user\documents\visual studio 2015\Projects\MoreNumbers\obj\Debug\MoreNumbers.pdb

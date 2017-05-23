@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\PracticeAndMorePractice\bin\Debug\PracticeAndMorePractice.exe.config
+c:\users\user\documents\visual studio 2015\Projects\PracticeAndMorePractice\bin\Debug\PracticeAndMorePractice.exe
+c:\users\user\documents\visual studio 2015\Projects\PracticeAndMorePractice\bin\Debug\PracticeAndMorePractice.pdb
+c:\users\user\documents\visual studio 2015\Projects\PracticeAndMorePractice\obj\Debug\PracticeAndMorePractice.exe
+c:\users\user\documents\visual studio 2015\Projects\PracticeAndMorePractice\obj\Debug\PracticeAndMorePractice.pdb

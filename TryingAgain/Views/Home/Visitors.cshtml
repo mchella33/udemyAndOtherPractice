@@ -1,0 +1,16 @@
+﻿@using TryingAgain.Entities
+@using TryingAgain.Models
+@{
+    ViewBag.Title = "Visitors";
+}
+
+<h2>Visitors</h2>
+
+@foreach (var visitors in Model)
+{
+    <p>
+        Message:@visitors.Message<hr />
+        Visitor:@visitors.Name<hr />
+        Date:@visitors.DatePosted<hr />
+    </p>
+}

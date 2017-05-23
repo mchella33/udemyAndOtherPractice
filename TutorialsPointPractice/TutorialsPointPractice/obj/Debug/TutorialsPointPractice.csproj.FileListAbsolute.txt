@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\TutorialsPointPractice\TutorialsPointPractice\bin\Debug\TutorialsPointPractice.exe.config
+c:\users\user\documents\visual studio 2015\Projects\TutorialsPointPractice\TutorialsPointPractice\bin\Debug\TutorialsPointPractice.exe
+c:\users\user\documents\visual studio 2015\Projects\TutorialsPointPractice\TutorialsPointPractice\bin\Debug\TutorialsPointPractice.pdb
+c:\users\user\documents\visual studio 2015\Projects\TutorialsPointPractice\TutorialsPointPractice\obj\Debug\TutorialsPointPractice.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\TutorialsPointPractice\TutorialsPointPractice\obj\Debug\TutorialsPointPractice.exe
+c:\users\user\documents\visual studio 2015\Projects\TutorialsPointPractice\TutorialsPointPractice\obj\Debug\TutorialsPointPractice.pdb

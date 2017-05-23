@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\Foreach\Foreach\bin\Debug\Foreach.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Foreach\Foreach\bin\Debug\Foreach.exe
+c:\users\user\documents\visual studio 2015\Projects\Foreach\Foreach\bin\Debug\Foreach.pdb
+c:\users\user\documents\visual studio 2015\Projects\Foreach\Foreach\obj\Debug\Foreach.exe
+c:\users\user\documents\visual studio 2015\Projects\Foreach\Foreach\obj\Debug\Foreach.pdb

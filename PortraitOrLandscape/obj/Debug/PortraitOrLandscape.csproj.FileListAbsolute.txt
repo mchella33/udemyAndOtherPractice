@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\PortraitOrLandscape\bin\Debug\PortraitOrLandscape.exe.config
+c:\users\user\documents\visual studio 2015\Projects\PortraitOrLandscape\bin\Debug\PortraitOrLandscape.exe
+c:\users\user\documents\visual studio 2015\Projects\PortraitOrLandscape\bin\Debug\PortraitOrLandscape.pdb
+c:\users\user\documents\visual studio 2015\Projects\PortraitOrLandscape\obj\Debug\PortraitOrLandscape.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\PortraitOrLandscape\obj\Debug\PortraitOrLandscape.exe
+c:\users\user\documents\visual studio 2015\Projects\PortraitOrLandscape\obj\Debug\PortraitOrLandscape.pdb

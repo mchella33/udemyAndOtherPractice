@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\ValidOrInvalid\bin\Debug\ValidOrInvalid.exe.config
+c:\users\user\documents\visual studio 2015\Projects\ValidOrInvalid\bin\Debug\ValidOrInvalid.exe
+c:\users\user\documents\visual studio 2015\Projects\ValidOrInvalid\bin\Debug\ValidOrInvalid.pdb
+c:\users\user\documents\visual studio 2015\Projects\ValidOrInvalid\obj\Debug\ValidOrInvalid.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\ValidOrInvalid\obj\Debug\ValidOrInvalid.exe
+c:\users\user\documents\visual studio 2015\Projects\ValidOrInvalid\obj\Debug\ValidOrInvalid.pdb

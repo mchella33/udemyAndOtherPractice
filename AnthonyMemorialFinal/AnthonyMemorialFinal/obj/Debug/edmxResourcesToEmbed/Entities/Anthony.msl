@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="AnthonyModelStoreContainer" CdmEntityContainer="AnthonyEntities">
+    <EntitySetMapping Name="Memorials">
+      <EntityTypeMapping TypeName="AnthonyModel.Memorial">
+        <MappingFragment StoreEntitySet="Memorials">
+          <ScalarProperty Name="SubmitterId" ColumnName="SubmitterId" />
+          <ScalarProperty Name="SubmitterName" ColumnName="SubmitterName" />
+          <ScalarProperty Name="Picture" ColumnName="Picture" />
+          <ScalarProperty Name="Tribute" ColumnName="Tribute" />
+          <ScalarProperty Name="Story" ColumnName="Story" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

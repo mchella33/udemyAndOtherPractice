@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Summary\Summary\bin\Debug\Summary.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Summary\Summary\obj\Debug\Summary.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Summary\Summary\bin\Debug\Summary.exe
+c:\users\user\documents\visual studio 2015\Projects\Summary\Summary\bin\Debug\Summary.pdb
+c:\users\user\documents\visual studio 2015\Projects\Summary\Summary\obj\Debug\Summary.exe
+c:\users\user\documents\visual studio 2015\Projects\Summary\Summary\obj\Debug\Summary.pdb

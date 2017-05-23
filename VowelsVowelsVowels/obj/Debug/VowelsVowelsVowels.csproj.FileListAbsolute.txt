@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\VowelsVowelsVowels\bin\Debug\VowelsVowelsVowels.exe.config
+c:\users\user\documents\visual studio 2015\Projects\VowelsVowelsVowels\bin\Debug\VowelsVowelsVowels.exe
+c:\users\user\documents\visual studio 2015\Projects\VowelsVowelsVowels\bin\Debug\VowelsVowelsVowels.pdb
+c:\users\user\documents\visual studio 2015\Projects\VowelsVowelsVowels\obj\Debug\VowelsVowelsVowels.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\VowelsVowelsVowels\obj\Debug\VowelsVowelsVowels.exe
+c:\users\user\documents\visual studio 2015\Projects\VowelsVowelsVowels\obj\Debug\VowelsVowelsVowels.pdb

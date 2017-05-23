@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="AnthonyModelStoreContainer" CdmEntityContainer="AnthonyEntities">
+    <EntitySetMapping Name="Entries">
+      <EntityTypeMapping TypeName="AnthonyModel.Entry">
+        <MappingFragment StoreEntitySet="Entries">
+          <ScalarProperty Name="EntryID" ColumnName="EntryID" />
+          <ScalarProperty Name="Caption" ColumnName="Caption" />
+          <ScalarProperty Name="Submitter" ColumnName="Submitter" />
+          <ScalarProperty Name="Url" ColumnName="Url" />
+          <ScalarProperty Name="Blog" ColumnName="Blog" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

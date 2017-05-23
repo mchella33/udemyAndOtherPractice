@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AnthonyModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'Anthony.dbo.Memorials' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Memorials">
+    <Key>
+      <PropertyRef Name="SubmitterId" />
+      <PropertyRef Name="SubmitterName" />
+      <PropertyRef Name="Date" />
+    </Key>
+    <Property Name="SubmitterId" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="SubmitterName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Picture" Type="nvarchar" MaxLength="500" />
+    <Property Name="Tribute" Type="nvarchar(max)" />
+    <Property Name="Story" Type="nvarchar(max)" />
+    <Property Name="Date" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="AnthonyModelStoreContainer">
+    <EntitySet Name="Memorials" EntityType="Self.Memorials" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Memorials].[SubmitterId] AS [SubmitterId], 
+    [Memorials].[SubmitterName] AS [SubmitterName], 
+    [Memorials].[Picture] AS [Picture], 
+    [Memorials].[Tribute] AS [Tribute], 
+    [Memorials].[Story] AS [Story], 
+    [Memorials].[Date] AS [Date]
+    FROM [dbo].[Memorials] AS [Memorials]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

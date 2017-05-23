@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\LetsBuildAHouse\bin\Debug\LetsBuildAHouse.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\LetsBuildAHouse\bin\Debug\LetsBuildAHouse.exe
+C:\Users\User\documents\visual studio 2015\Projects\LetsBuildAHouse\bin\Debug\LetsBuildAHouse.pdb
+C:\Users\User\documents\visual studio 2015\Projects\LetsBuildAHouse\obj\Debug\LetsBuildAHouse.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\LetsBuildAHouse\obj\Debug\LetsBuildAHouse.Form1.resources
+C:\Users\User\documents\visual studio 2015\Projects\LetsBuildAHouse\obj\Debug\LetsBuildAHouse.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2015\Projects\LetsBuildAHouse\obj\Debug\LetsBuildAHouse.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2015\Projects\LetsBuildAHouse\obj\Debug\LetsBuildAHouse.exe
+C:\Users\User\documents\visual studio 2015\Projects\LetsBuildAHouse\obj\Debug\LetsBuildAHouse.pdb

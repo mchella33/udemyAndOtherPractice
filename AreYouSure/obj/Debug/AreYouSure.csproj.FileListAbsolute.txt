@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\AreYouSure\bin\Debug\AreYouSure.exe.config
+c:\users\user\documents\visual studio 2015\Projects\AreYouSure\bin\Debug\AreYouSure.exe
+c:\users\user\documents\visual studio 2015\Projects\AreYouSure\bin\Debug\AreYouSure.pdb
+c:\users\user\documents\visual studio 2015\Projects\AreYouSure\obj\Debug\AreYouSure.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\AreYouSure\obj\Debug\AreYouSure.exe
+c:\users\user\documents\visual studio 2015\Projects\AreYouSure\obj\Debug\AreYouSure.pdb

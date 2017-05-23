@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\DucksDucksAndMoreDucks\bin\Debug\DucksDucksAndMoreDucks.exe.config
+c:\users\user\documents\visual studio 2015\Projects\DucksDucksAndMoreDucks\bin\Debug\DucksDucksAndMoreDucks.exe
+c:\users\user\documents\visual studio 2015\Projects\DucksDucksAndMoreDucks\bin\Debug\DucksDucksAndMoreDucks.pdb
+c:\users\user\documents\visual studio 2015\Projects\DucksDucksAndMoreDucks\obj\Debug\DucksDucksAndMoreDucks.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\DucksDucksAndMoreDucks\obj\Debug\DucksDucksAndMoreDucks.exe
+c:\users\user\documents\visual studio 2015\Projects\DucksDucksAndMoreDucks\obj\Debug\DucksDucksAndMoreDucks.pdb

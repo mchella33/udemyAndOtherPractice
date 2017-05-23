@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\ReadingRainbow\bin\Debug\ReadingRainbow.exe.config
+c:\users\user\documents\visual studio 2015\Projects\ReadingRainbow\bin\Debug\ReadingRainbow.exe
+c:\users\user\documents\visual studio 2015\Projects\ReadingRainbow\bin\Debug\ReadingRainbow.pdb
+c:\users\user\documents\visual studio 2015\Projects\ReadingRainbow\obj\Debug\ReadingRainbow.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\ReadingRainbow\obj\Debug\ReadingRainbow.exe
+c:\users\user\documents\visual studio 2015\Projects\ReadingRainbow\obj\Debug\ReadingRainbow.pdb

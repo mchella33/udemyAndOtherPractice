@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\WhatsBigger\bin\Debug\WhatsBigger.exe.config
+c:\users\user\documents\visual studio 2015\Projects\WhatsBigger\bin\Debug\WhatsBigger.exe
+c:\users\user\documents\visual studio 2015\Projects\WhatsBigger\bin\Debug\WhatsBigger.pdb
+c:\users\user\documents\visual studio 2015\Projects\WhatsBigger\obj\Debug\WhatsBigger.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\WhatsBigger\obj\Debug\WhatsBigger.exe
+c:\users\user\documents\visual studio 2015\Projects\WhatsBigger\obj\Debug\WhatsBigger.pdb

@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\FactOrFactorial\bin\Debug\FactOrFactorial.exe.config
+c:\users\user\documents\visual studio 2015\Projects\FactOrFactorial\bin\Debug\FactOrFactorial.exe
+c:\users\user\documents\visual studio 2015\Projects\FactOrFactorial\bin\Debug\FactOrFactorial.pdb
+c:\users\user\documents\visual studio 2015\Projects\FactOrFactorial\obj\Debug\FactOrFactorial.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\FactOrFactorial\obj\Debug\FactOrFactorial.exe
+c:\users\user\documents\visual studio 2015\Projects\FactOrFactorial\obj\Debug\FactOrFactorial.pdb

@@ -1,0 +1,44 @@
+﻿@using Anthony.Models
+@model Anthony.Models.GuestsViewModel
+@{
+    ViewBag.Title = "GuestBook";
+}
+
+<h2>GuestBook</h2>
+
+@using (Html.BeginForm())
+{
+    <fieldset>
+        <legend>Sign Guest Book</legend>
+        <div class="editor-label">
+            @Html.LabelFor(model => model.FirstName)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.FirstName)
+            @Html.ValidationMessageFor(model => model.FirstName)       
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.LastName)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.LastName)
+            @Html.ValidationMessageFor(model => model.LastName)
+        </div>
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Email)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Email)
+            @Html.ValidationMessageFor(model => model.Email)
+        </div><hr />
+        <p>
+            <input type="submit" value="Sign" />
+        </p>
+
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Home", "Index")
+</div>

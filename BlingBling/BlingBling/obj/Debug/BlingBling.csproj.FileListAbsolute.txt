@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\BlingBling\BlingBling\bin\Debug\BlingBling.exe.config
+c:\users\user\documents\visual studio 2015\Projects\BlingBling\BlingBling\bin\Debug\BlingBling.exe
+c:\users\user\documents\visual studio 2015\Projects\BlingBling\BlingBling\bin\Debug\BlingBling.pdb
+c:\users\user\documents\visual studio 2015\Projects\BlingBling\BlingBling\obj\Debug\BlingBling.exe
+c:\users\user\documents\visual studio 2015\Projects\BlingBling\BlingBling\obj\Debug\BlingBling.pdb

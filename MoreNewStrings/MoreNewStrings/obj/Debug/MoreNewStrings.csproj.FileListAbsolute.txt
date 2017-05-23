@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\MoreNewStrings\MoreNewStrings\bin\Debug\MoreNewStrings.exe.config
+c:\users\user\documents\visual studio 2015\Projects\MoreNewStrings\MoreNewStrings\bin\Debug\MoreNewStrings.exe
+c:\users\user\documents\visual studio 2015\Projects\MoreNewStrings\MoreNewStrings\bin\Debug\MoreNewStrings.pdb
+c:\users\user\documents\visual studio 2015\Projects\MoreNewStrings\MoreNewStrings\obj\Debug\MoreNewStrings.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\MoreNewStrings\MoreNewStrings\obj\Debug\MoreNewStrings.exe
+c:\users\user\documents\visual studio 2015\Projects\MoreNewStrings\MoreNewStrings\obj\Debug\MoreNewStrings.pdb

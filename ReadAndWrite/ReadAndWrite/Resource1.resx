@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="String1" xml:space="preserve">
+    <value>Achieved Title
+Achieved Title is the highest level a Beauty Advisor has achieved in the Career plan at any time.
+Active Beauty Advisor
+This term is used specifically as it relates to the Monthly Level Qualifications and currently is defined as a Beauty Advisor that has a monthly PV of 75 or greater during any one month of a three-month period.  Beauty Advisors who fail to meet the minimum requirement will lose their team and their account will be changed to Crush Insider status
+Beauty Advisor
+As a general term to describe a person that has filled out the Company application and is in any Genealogy; in some instances, the more specific version of this term is used to define the lowest of an individual within the Qualification Levels of Beauty Advisors. 
+Bonus
+Additional payments to eligible and qualified Beauty Advisors based on their team performance during the month. Willing Beauty supports two different monthly bonus payouts - Unilevel Bonuses and Generational Bonuses.
+Bonus Period
+The Bonus Period defines the start date and end date for each bonus payout under the compensation plan (Unilevel Bonuses and Generational Bonuses). Willing Beauty Bonus Periods are defined as the first day of each month and ending on the last day of each month. 
+Breakage
+Breakage is considered any bonus that is left unpaid due to the failure of a Beauty Advisor to qualify for that type of bonus.
+Clawback
+Clawback is the ability to recapture commissions paid on an order when that order is returned. When an order is returned, the dollar amount paid to any upline or downline Beauty Advisor on that purchase is subtracted from the Beauty Advisors bonus payout the next time commissions are processed. 
+Commissionable Volume (CV)
+The CV is recognized as the wholesale price of a product that is purchased. CV and PV represent the same value.
+Commissions
+Payments are made in the form of Commissions to Beauty Advisors that are eligible and are made on a weekly basis. Willing Beauty currently supports a single weekly Commission payout.
+Commission Period
+The Commission Period defines the start date and end date for the Commission payout under the compensation plan. Willing Beauty Weekly Retail Commission Period is defined as the week starting on a Sunday and ending on a Saturday. The Willing Beauty Monthly Commissions Period is defined as starting on the first day of a given month and ending on the last day of that month
+Compression
+Compression is not used in any Unilevel Bonus or Generational Bonus calculations within the Willing Beauty compensation plan. This does not mean that if someone terminates, that the downline fails to roll up providing earnings one level higher within the plan. For Beauty Advisors, compression only occurs after termination. For Crush Insiders, Beauty Advisors in the first level of a Crush Insider roll up to the next highest Beauty Advisor if the Crush Insider does not convert to a Beauty Advisor within three months of when the downline Beauty Advisor becomes a Beauty Advisor
+Crush Insider
+A Crush Insider is associated with a Beauty Advisor or another Crush Insider. A Crush Insider can sign-up other Crush Insiders and Beauty Advisors, however they do not receive commissions. A Crush Insider is placed in the Genealogy.
+Customer
+A Customer is associated with a Beauty Advisor or Crush Insider. However, a Customer cannot sign-up other Beauty Advisors/Crush Insiders nor do they receive commissions. A Customer is not placed in any Genealogy and is considered to be on the same level as the Beauty Advisor. 
+Direct Beauty Advisor
+This refers to the Beauty Advisor or Beauty Advisors below a Mentor in their level 1 in any Genealogy.
+Direct Crush Insider
+This refers to the Crush Insider or Crush Insiders below a Mentor in their level 1 in any Genealogy.
+Direct Team Leader
+Any paid-as Team Leader or higher ranking leader on the first level of a Beauty Advisor who earned Team Leader while Level-1 to their current mentor.  Roll-ups may become a Direct Team Leader if they had not earned a career title of Team Leader prior to rolling up to their current Mentor.
+Eligible Beauty Advisor
+Beauty Advisors must meet the Personal Volume and Eligibility Timeframe guidelines in order to be considered eligible for Bonus and Commission payments. Currently, Beauty Advisors are considered Eligible if they have a cumulative PV of 75 once in a three month period 
+Genealogy
+This is the overall organizational structure that indicates how and where Beauty Advisors are placed. Willing Beauty supports a primary Unilevel Genealogy where placement and sponsorship may not be the same for all Beauty Advisors. 
+Generations
+A Generation starts with a Paid-As Title of Director (or higher) and includes all the Beauty Advisors in his or her downline, down to, but not including, the next Paid-As Title of Director (or higher).
+Generational Bonus/Overrides
+Monthly Beauty Advisor bonuses paid to qualified Sr Directors and above, and calculated based on downline team performance of each generation (one paid-as-Director to the next) starting on the first day each month and ending on the last day of each month
+Indirect Team Leader
+Any paid-as Team Leader or higher ranking leader on the first level of a Beauty Advisor who earned Team Leader prior to being assigned to their current mentor, and all other paid-as Team Leaders on Levels 2-4 of a Beauty Advisor.
+Inherited Beauty Advisor
+Beauty Advisors that have been placed in your downline because of compression/termination of their original Mentors, are considered inherited. For Inherited Beauty Advisors that are placed at your Level 1 (Direct Beauty Advisor), you become their mentor just like Personally Sponsored Beauty Advisors. Inherited Beauty Advisors count for Team Structure qualification criteria but not for Personally Sponsored qualification criteria. 
+Leg
+A Leg is a portion of a Beauty Advisors enrollment (Unilevel) organization starting at one of his or her first-level Beauty Advisors and encompassing his or her entire tree organization. If a Beauty Advisor has 10 first-level Beauty Advisors, he or she has 10 Legs. 
+Level
+This refers to where a Beauty Advisor is located within any Genealogy. It also refers to the Beauty Advisor positioned immediately above a new or existing Beauty Advisor.
+Mentor
+A Mentor is a Beauty Advisor/Crush Insider beneath who the new Beauty Advisor/Crush Insider is placed for structure. The mentor relationship also extends to those Beauty Advisors/Crush Insiders that have been assigned, placed, or compressed into a direct relationship with a mentor (See Inherited Beauty Advisor). 
+Monthly Qualifications
+Qualifications listed in multiple categories are what makes the basis for the Bonus payouts at the end of each Qualification period.
+Paid-As Title
+A Beauty Advisors Paid-As Title is the title at which he or she naturally qualifies, regardless of any Paid-As Title Exemption. If a Beauty Advisor has a Paid-As Title Exemption applied, but their Qualified Paid-As Title is higher than that which they are Exempt, the Beauty Advisors Paid-As Title takes precedence over the Paid-As Title Exemption. 
+Personally Sponsored Beauty Advisor
+A Personally Sponsored Beauty Advisor is someone a Beauty Advisor or Crush Insider has personally enrolled into one of the Origami Owl Family of Brands companies.   The personally sponsored relationship is the ONLY relationship that crosses company boundaries and has no relationship to mentoring or placement in genealogy. A Personally Sponsored Beauty Advisor could be above another Beauty Advisor, or several levels below, or may be in an entirely different organization or company
+Personally Sponsored Qualified Beauty Advisor
+A Beauty Advisor who is Personally Sponsored (no roll-ups) and who produces at least 75 PV in a calendar month and are downline (Level 1-4) to their Mentor (they have not rolled around them to a higher level). Personally Sponsored Qualified are used when calculating monthly Qualification Levels for a Beauty Advisor.
+Personally Sponsored – for Personal Sponsor Bonus
+The Beauty Advisors who have been enrolled by a Beauty Advisor (no roll-ups).  When a Beauty Advisor fails to produce 75 PV in a rolling three-month period or cancels, the Beauty Advisors they enrolled will roll-up to another Mentor but the Personal Sponsor Bonus will not be paid to the new Mentor.
+Personal Volume (PV)
+PV is the amount of Commissionable Volume (CV) earned by a Beauty Advisor from his or her personal purchases. PV also includes the CV from the purchases of the Crush Insiders and Customers. This is recognized as the wholesale value on qualifying products purchased by the Beauty Advisor and on the Beauty Advisors’ Crush Insiders and Customers. 
+Qualified Beauty Advisor
+A Beauty Advisor that has met the Qualification criteria for a specific Level within the plan is considered to have qualified for the Beauty Advisor bonuses associated with this compensation plan.
+Qualification Period
+The Qualification Period for a commission payouts matches the monthly Bonus calculation periods exactly.
+Retail Profit
+The price paid by a customer multiplied by the qualifying retail commission rate
+Retail Profit Commissions
+Weekly commissions are paid based on Personal Volume and is calculated on purchases starting on Sunday and ending on Saturday of each calendar week.
+Sponsor
+A Sponsor is a Beauty Advisor/Crush Insider who personally enrolls a new Beauty Advisor or Crush Insider and could be in the tree of another of the Origami Owl Family of Brands company
+Team Volume
+The cumulative PV earned by all the Beauty Advisors in your levels 0-4 for the Qualification Period.
+Terminated Beauty Advisor
+A Beauty Advisor that either voluntarily or for-cause has their relationship with the company terminated. Beauty Advisors and Crush Insiders in a terminated Beauty Advisors downline will be placed and inherited by other Beauty Advisors.
+Total Team Leaders
+Total of all paid-as Team Leaders on Levels 1-4 from the Beauty Advisor
+Unilevel Bonus/Overrides
+Monthly bonuses/overrides calculations are based on purchases starting on the first day of each month and ending on the last day of each month.
+Upline
+This refers to the Beauty Advisor/Crush Insider or Beauty Advisors/Crush Insiders above a new or existing Beauty Advisor/Crush Insider in any Genealogy.</value>
+  </data>
+</root>

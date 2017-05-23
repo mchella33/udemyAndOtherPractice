@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TestingModelStoreContainer" CdmEntityContainer="TestingEntities">
+    <EntitySetMapping Name="TestingSignOffs">
+      <EntityTypeMapping TypeName="TestingModel.TestingSignOff">
+        <MappingFragment StoreEntitySet="TestingSignOffs">
+          <ScalarProperty Name="DateTested" ColumnName="DateTested" />
+          <ScalarProperty Name="TesterId" ColumnName="TesterId" />
+          <ScalarProperty Name="Version" ColumnName="Version" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="VolumeBucket" ColumnName="VolumeBucket" />
+          <ScalarProperty Name="Rank" ColumnName="Rank" />
+          <ScalarProperty Name="Bonus" ColumnName="Bonus" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

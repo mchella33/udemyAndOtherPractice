@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\RandomClass\RandomClass\bin\Debug\RandomClass.exe.config
+c:\users\user\documents\visual studio 2015\Projects\RandomClass\RandomClass\bin\Debug\RandomClass.exe
+c:\users\user\documents\visual studio 2015\Projects\RandomClass\RandomClass\bin\Debug\RandomClass.pdb
+c:\users\user\documents\visual studio 2015\Projects\RandomClass\RandomClass\obj\Debug\RandomClass.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\RandomClass\RandomClass\obj\Debug\RandomClass.exe
+c:\users\user\documents\visual studio 2015\Projects\RandomClass\RandomClass\obj\Debug\RandomClass.pdb

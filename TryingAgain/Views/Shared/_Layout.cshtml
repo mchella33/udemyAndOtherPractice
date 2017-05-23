@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - In Loving Memory of Anthony San Miguel</title>
+    @*<link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />*@
+    <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+    @*<link href="https://fonts.googleapis.com/css?family=Niconne" rel="stylesheet">*@
+    <link href="https://fonts.googleapis.com/css?family=Satisfy" rel="stylesheet">
+    <script src="~/Scripts/modernizr-2.6.2.js"></script>
+    
+</head>
+<body>
+<div class="container-fluid">
+    <a>@Html.ActionLink("Home", "Index", "Home")</a>
+    <a>@Html.ActionLink("Obituary", "Obituary", "Home")</a>
+    @*<a>@Html.ActionLink("Add a Story", "AddStory", "Home")</a>*@
+    @*<a>@Html.ActionLink("Add your name", "CreateVisitor", "Home")</a>*@
+    <a>@Html.ActionLink("See Pictures", "PicturesList", "Home")</a>
+    <a>@Html.ActionLink("See Stories", "StorysList", "Home")</a>
+    @*<a>@Html.ActionLink("Add a Picture", "UploadPicture", "Home")</a>*@
+    <a>@Html.ActionLink("Guest Book", "Visitors", "Home")</a>
+</div>
+
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - In Loving Memory of Anthony San Miguel</p>
+        </footer>
+    </div>
+
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    @*<script src="~/Scripts/bootstrap.min.js"></script>*@
+</body>
+</html>

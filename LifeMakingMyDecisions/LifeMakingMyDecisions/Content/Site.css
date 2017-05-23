@@ -1,0 +1,22 @@
+﻿body {
+    background-image: url(http://fc00.deviantart.net/fs71/f/2011/216/7/b/texas_logo_by_profseverussnape-d45g7ne.jpg);
+     font-family: 'Courgette', cursive;                
+     
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    /*padding-left: 15px;
+    padding-right: 15px;*/
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,                                                      
+textarea {
+    max-width: 280px;
+}
+footer {
+    font-family: 'Courgette', cursive;
+    color:burlywood;
+}

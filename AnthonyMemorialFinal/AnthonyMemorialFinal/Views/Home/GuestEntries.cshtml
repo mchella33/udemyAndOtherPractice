@@ -1,0 +1,55 @@
+﻿@using AnthonyMemorialFinal.Entities;
+@using AnthonyMemorialFinal.Models;
+
+@{
+    ViewBag.Title = "GuestEntries";
+}
+
+ 
+@using (Html.BeginForm())
+{ 
+    @Html.ValidationSummary(true)
+    @Html.AntiForgeryToken()
+    <fieldset>
+        <legend>Entries</legend>
+        <div class="editor-label">
+            @Html.LabelFor(model => model.SubmitterName)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.SubmitterName)
+            @Html.ValidationMessageFor(model => model.SubmitterName)
+        </div>
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Picture)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Picture)
+            @Html.ValidationMessageFor(model => model.Picture)
+        </div>
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Tribute)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Tribute)
+            @Html.ValidationMessageFor(model => model.Tribute)
+        </div>
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Story)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Story
+            @Html.ValidationMessageFor(model => model.Story)
+        </div>
+        <div class="editor-label">
+            @Html.Label("Date Submitted")
+        </div>
+        <p>
+            <input type="submit" value="Submit for addition to page" />
+        </p>
+    </fieldset>
+
+    <div>
+        @Html.ActionLink("Home", "Index", "Home")
+    </div>
+    }
+}

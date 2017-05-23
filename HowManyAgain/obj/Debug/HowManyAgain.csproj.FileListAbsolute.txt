@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\HowManyAgain\bin\Debug\HowManyAgain.exe.config
+c:\users\user\documents\visual studio 2015\Projects\HowManyAgain\bin\Debug\HowManyAgain.exe
+c:\users\user\documents\visual studio 2015\Projects\HowManyAgain\bin\Debug\HowManyAgain.pdb
+c:\users\user\documents\visual studio 2015\Projects\HowManyAgain\obj\Debug\HowManyAgain.exe
+c:\users\user\documents\visual studio 2015\Projects\HowManyAgain\obj\Debug\HowManyAgain.pdb

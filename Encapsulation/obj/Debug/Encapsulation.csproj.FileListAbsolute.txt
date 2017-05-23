@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Encapsulation\bin\Debug\Encapsulation.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Encapsulation\bin\Debug\Encapsulation.exe
+c:\users\user\documents\visual studio 2015\Projects\Encapsulation\bin\Debug\Encapsulation.pdb
+c:\users\user\documents\visual studio 2015\Projects\Encapsulation\obj\Debug\Encapsulation.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Encapsulation\obj\Debug\Encapsulation.exe
+c:\users\user\documents\visual studio 2015\Projects\Encapsulation\obj\Debug\Encapsulation.pdb

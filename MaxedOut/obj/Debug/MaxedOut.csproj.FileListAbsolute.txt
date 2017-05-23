@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\MaxedOut\bin\Debug\MaxedOut.exe.config
+c:\users\user\documents\visual studio 2015\Projects\MaxedOut\bin\Debug\MaxedOut.exe
+c:\users\user\documents\visual studio 2015\Projects\MaxedOut\bin\Debug\MaxedOut.pdb
+c:\users\user\documents\visual studio 2015\Projects\MaxedOut\obj\Debug\MaxedOut.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\MaxedOut\obj\Debug\MaxedOut.exe
+c:\users\user\documents\visual studio 2015\Projects\MaxedOut\obj\Debug\MaxedOut.pdb

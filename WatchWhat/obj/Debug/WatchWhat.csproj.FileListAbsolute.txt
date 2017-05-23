@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\WatchWhat\bin\Debug\WatchWhat.exe.config
+c:\users\user\documents\visual studio 2015\Projects\WatchWhat\bin\Debug\WatchWhat.exe
+c:\users\user\documents\visual studio 2015\Projects\WatchWhat\bin\Debug\WatchWhat.pdb
+c:\users\user\documents\visual studio 2015\Projects\WatchWhat\obj\Debug\WatchWhat.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\WatchWhat\obj\Debug\WatchWhat.exe
+c:\users\user\documents\visual studio 2015\Projects\WatchWhat\obj\Debug\WatchWhat.pdb

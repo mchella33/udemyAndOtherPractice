@@ -1,0 +1,18 @@
+﻿@using TryingAgain.Models
+
+@{
+    ViewBag.Title = "PicturesList";
+}
+
+<h2>PicturesList</h2>
+
+@foreach (var picture in Model)
+{
+    <p>
+        @picture.Url<hr/>
+        Date Picture was taken:@picture.DateOfPicture<hr/>
+        Name:@picture.VisitorName<hr/>
+        Caption: @picture.Caption<hr/>
+        Date Picture Added: @picture.DatePicturePosted<hr/>
+    </p>
+}

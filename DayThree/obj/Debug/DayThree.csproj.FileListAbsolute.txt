@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\DayThree\bin\Debug\DayThree.exe.config
+c:\users\user\documents\visual studio 2015\Projects\DayThree\bin\Debug\DayThree.exe
+c:\users\user\documents\visual studio 2015\Projects\DayThree\bin\Debug\DayThree.pdb
+c:\users\user\documents\visual studio 2015\Projects\DayThree\obj\Debug\DayThree.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\DayThree\obj\Debug\DayThree.exe
+c:\users\user\documents\visual studio 2015\Projects\DayThree\obj\Debug\DayThree.pdb

@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\ItIsWhatItIs\bin\Debug\ItIsWhatItIs.exe.config
+c:\users\user\documents\visual studio 2015\Projects\ItIsWhatItIs\bin\Debug\ItIsWhatItIs.exe
+c:\users\user\documents\visual studio 2015\Projects\ItIsWhatItIs\bin\Debug\ItIsWhatItIs.pdb
+c:\users\user\documents\visual studio 2015\Projects\ItIsWhatItIs\obj\Debug\ItIsWhatItIs.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\ItIsWhatItIs\obj\Debug\ItIsWhatItIs.exe
+c:\users\user\documents\visual studio 2015\Projects\ItIsWhatItIs\obj\Debug\ItIsWhatItIs.pdb

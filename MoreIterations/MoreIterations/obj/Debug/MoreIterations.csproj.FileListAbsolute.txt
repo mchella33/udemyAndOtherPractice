@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\MoreIterations\MoreIterations\bin\Debug\MoreIterations.exe.config
+c:\users\user\documents\visual studio 2015\Projects\MoreIterations\MoreIterations\bin\Debug\MoreIterations.exe
+c:\users\user\documents\visual studio 2015\Projects\MoreIterations\MoreIterations\bin\Debug\MoreIterations.pdb
+c:\users\user\documents\visual studio 2015\Projects\MoreIterations\MoreIterations\obj\Debug\MoreIterations.exe
+c:\users\user\documents\visual studio 2015\Projects\MoreIterations\MoreIterations\obj\Debug\MoreIterations.pdb

@@ -1,0 +1,54 @@
+﻿@model TryingAgain.Entities.Picture
+@{
+    ViewBag.Title = "UploadPicture";
+}
+
+<h2>UploadPicture</h2>
+
+@using (Html.BeginForm())
+{
+    @*@Html.ValidationSummary(true)
+    @Html.AntiForgeryToken()*@
+    <fieldset>
+        <legend>Speed Dating Registration</legend>
+        <div class="editor-label">
+            @Html.LabelFor(model => model.PictureUrl)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.PictureUrl)
+            @Html.ValidationMessageFor(model => model.PictureUrl)
+        </div>
+        <div class="editor-label">
+            @Html.LabelFor(model => model.DateOfPicture)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.DateOfPicture)
+            @Html.ValidationMessageFor(model => model.DateOfPicture)
+        </div>
+    <div class="editor-label">
+        @Html.LabelFor(model => model.VisitorName)
+    </div>
+    <div class="editor-field">
+        @Html.EditorFor(model => model.VisitorName)
+        @Html.ValidationMessageFor(model => model.VisitorName)
+    </div>
+    <div class="editor-label">
+        @Html.LabelFor(model => model.Caption)
+    </div>
+    <div class="editor-field">
+        @Html.EditorFor(model => model.Caption)
+        @Html.ValidationMessageFor(model => model.Caption)
+    </div>
+        <div class="editor-label">
+            @Html.Label("PostTime")
+        </div>
+        <p>
+            <input type="submit" value="Add your name to the Visitor's Log" />
+        </p>
+
+    </fieldset>
+
+    <div>
+        @Html.ActionLink("Home", "Index","Home")
+    </div>
+}

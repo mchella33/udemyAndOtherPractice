@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\ReadWriteFinal\ReadWriteFinal\bin\Debug\ReadWriteFinal.exe.config
+c:\users\user\documents\visual studio 2015\Projects\ReadWriteFinal\ReadWriteFinal\bin\Debug\ReadWriteFinal.exe
+c:\users\user\documents\visual studio 2015\Projects\ReadWriteFinal\ReadWriteFinal\bin\Debug\ReadWriteFinal.pdb
+c:\users\user\documents\visual studio 2015\Projects\ReadWriteFinal\ReadWriteFinal\obj\Debug\ReadWriteFinal.exe
+c:\users\user\documents\visual studio 2015\Projects\ReadWriteFinal\ReadWriteFinal\obj\Debug\ReadWriteFinal.pdb

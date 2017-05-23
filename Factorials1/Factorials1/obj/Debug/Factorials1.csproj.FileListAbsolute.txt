@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Factorials1\Factorials1\bin\Debug\Factorials1.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Factorials1\Factorials1\bin\Debug\Factorials1.exe
+c:\users\user\documents\visual studio 2015\Projects\Factorials1\Factorials1\bin\Debug\Factorials1.pdb
+c:\users\user\documents\visual studio 2015\Projects\Factorials1\Factorials1\obj\Debug\Factorials1.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Factorials1\Factorials1\obj\Debug\Factorials1.exe
+c:\users\user\documents\visual studio 2015\Projects\Factorials1\Factorials1\obj\Debug\Factorials1.pdb

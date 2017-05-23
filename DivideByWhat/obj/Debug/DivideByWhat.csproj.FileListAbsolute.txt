@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\DivideByWhat\bin\Debug\DivideByWhat.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\DivideByWhat\bin\Debug\DivideByWhat.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\DivideByWhat\bin\Debug\DivideByWhat.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\DivideByWhat\obj\Debug\DivideByWhat.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\DivideByWhat\obj\Debug\DivideByWhat.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\DivideByWhat\obj\Debug\DivideByWhat.pdb

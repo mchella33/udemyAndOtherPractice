@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Coupling\bin\Debug\Coupling.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Coupling\bin\Debug\Coupling.exe
+c:\users\user\documents\visual studio 2015\Projects\Coupling\bin\Debug\Coupling.pdb
+c:\users\user\documents\visual studio 2015\Projects\Coupling\obj\Debug\Coupling.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Coupling\obj\Debug\Coupling.exe
+c:\users\user\documents\visual studio 2015\Projects\Coupling\obj\Debug\Coupling.pdb

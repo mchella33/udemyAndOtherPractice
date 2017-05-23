@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Gardening\bin\Debug\Gardening.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Gardening\bin\Debug\Gardening.exe
+c:\users\user\documents\visual studio 2015\Projects\Gardening\bin\Debug\Gardening.pdb
+c:\users\user\documents\visual studio 2015\Projects\Gardening\obj\Debug\Gardening.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Gardening\obj\Debug\Gardening.exe
+c:\users\user\documents\visual studio 2015\Projects\Gardening\obj\Debug\Gardening.pdb

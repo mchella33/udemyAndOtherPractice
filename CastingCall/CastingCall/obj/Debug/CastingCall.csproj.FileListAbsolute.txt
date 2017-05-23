@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\CastingCall\CastingCall\bin\Debug\CastingCall.exe.config
+c:\users\user\documents\visual studio 2015\Projects\CastingCall\CastingCall\obj\Debug\CastingCall.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\CastingCall\CastingCall\obj\Debug\CastingCall.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\CastingCall\CastingCall\obj\Debug\CastingCall.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\CastingCall\CastingCall\obj\Debug\CastingCall.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\CastingCall\CastingCall\bin\Debug\CastingCall.exe
+c:\users\user\documents\visual studio 2015\Projects\CastingCall\CastingCall\bin\Debug\CastingCall.pdb
+c:\users\user\documents\visual studio 2015\Projects\CastingCall\CastingCall\obj\Debug\CastingCall.exe
+c:\users\user\documents\visual studio 2015\Projects\CastingCall\CastingCall\obj\Debug\CastingCall.pdb

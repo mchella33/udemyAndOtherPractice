@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\GettingBetterLol\bin\Debug\GettingBetterLol.exe.config
+c:\users\user\documents\visual studio 2015\Projects\GettingBetterLol\bin\Debug\GettingBetterLol.exe
+c:\users\user\documents\visual studio 2015\Projects\GettingBetterLol\bin\Debug\GettingBetterLol.pdb
+c:\users\user\documents\visual studio 2015\Projects\GettingBetterLol\obj\Debug\GettingBetterLol.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\GettingBetterLol\obj\Debug\GettingBetterLol.exe
+c:\users\user\documents\visual studio 2015\Projects\GettingBetterLol\obj\Debug\GettingBetterLol.pdb

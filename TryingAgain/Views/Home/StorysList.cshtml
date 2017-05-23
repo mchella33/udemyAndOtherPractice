@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewBag.Title = "StorysList";
+}
+
+<h2>StorysList</h2>
+
+@foreach (var story in Model)
+{
+    <p>
+        Story: @story.Story1<hr/>
+        Story Teller: @story.StoryTeller<hr/>
+        Date of Story: @story.DateOfStory<hr/>
+        @*Date Posted: @DatePosted <hr/>*@
+        @*@story.JsonAtributes*@
+
+    </p>
+}

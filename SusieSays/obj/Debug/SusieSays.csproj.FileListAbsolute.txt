@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\SusieSays\bin\Debug\SusieSays.exe.config
+c:\users\user\documents\visual studio 2015\Projects\SusieSays\bin\Debug\SusieSays.exe
+c:\users\user\documents\visual studio 2015\Projects\SusieSays\bin\Debug\SusieSays.pdb
+c:\users\user\documents\visual studio 2015\Projects\SusieSays\obj\Debug\SusieSays.exe
+c:\users\user\documents\visual studio 2015\Projects\SusieSays\obj\Debug\SusieSays.pdb

@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\AListYouSay\bin\Debug\AListYouSay.exe.config
+c:\users\user\documents\visual studio 2015\Projects\AListYouSay\bin\Debug\AListYouSay.exe
+c:\users\user\documents\visual studio 2015\Projects\AListYouSay\bin\Debug\AListYouSay.pdb
+c:\users\user\documents\visual studio 2015\Projects\AListYouSay\obj\Debug\AListYouSay.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\AListYouSay\obj\Debug\AListYouSay.exe
+c:\users\user\documents\visual studio 2015\Projects\AListYouSay\obj\Debug\AListYouSay.pdb

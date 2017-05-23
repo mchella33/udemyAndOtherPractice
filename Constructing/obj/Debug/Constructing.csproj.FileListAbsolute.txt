@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\Constructing\bin\Debug\Constructing.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Constructing\bin\Debug\Constructing.exe
+c:\users\user\documents\visual studio 2015\Projects\Constructing\bin\Debug\Constructing.pdb
+c:\users\user\documents\visual studio 2015\Projects\Constructing\obj\Debug\Constructing.exe
+c:\users\user\documents\visual studio 2015\Projects\Constructing\obj\Debug\Constructing.pdb

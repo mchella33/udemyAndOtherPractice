@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\WhatAmI\bin\Debug\WhatAmI.exe.config
+c:\users\user\documents\visual studio 2015\Projects\WhatAmI\bin\Debug\WhatAmI.exe
+c:\users\user\documents\visual studio 2015\Projects\WhatAmI\bin\Debug\WhatAmI.pdb
+c:\users\user\documents\visual studio 2015\Projects\WhatAmI\obj\Debug\WhatAmI.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\WhatAmI\obj\Debug\WhatAmI.exe
+c:\users\user\documents\visual studio 2015\Projects\WhatAmI\obj\Debug\WhatAmI.pdb

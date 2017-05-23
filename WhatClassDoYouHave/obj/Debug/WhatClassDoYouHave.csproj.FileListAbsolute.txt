@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\WhatClassDoYouHave\bin\Debug\WhatClassDoYouHave.exe.config
+c:\users\user\documents\visual studio 2015\Projects\WhatClassDoYouHave\bin\Debug\WhatClassDoYouHave.exe
+c:\users\user\documents\visual studio 2015\Projects\WhatClassDoYouHave\bin\Debug\WhatClassDoYouHave.pdb
+c:\users\user\documents\visual studio 2015\Projects\WhatClassDoYouHave\obj\Debug\WhatClassDoYouHave.exe
+c:\users\user\documents\visual studio 2015\Projects\WhatClassDoYouHave\obj\Debug\WhatClassDoYouHave.pdb

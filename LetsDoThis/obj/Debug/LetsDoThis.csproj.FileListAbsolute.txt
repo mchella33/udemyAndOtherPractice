@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\LetsDoThis\bin\Debug\LetsDoThis.exe.config
+c:\users\user\documents\visual studio 2015\Projects\LetsDoThis\bin\Debug\LetsDoThis.exe
+c:\users\user\documents\visual studio 2015\Projects\LetsDoThis\bin\Debug\LetsDoThis.pdb
+c:\users\user\documents\visual studio 2015\Projects\LetsDoThis\obj\Debug\LetsDoThis.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\LetsDoThis\obj\Debug\LetsDoThis.exe
+c:\users\user\documents\visual studio 2015\Projects\LetsDoThis\obj\Debug\LetsDoThis.pdb

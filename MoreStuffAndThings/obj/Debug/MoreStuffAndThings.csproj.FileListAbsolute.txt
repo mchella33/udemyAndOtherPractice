@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\MoreStuffAndThings\bin\Debug\MoreStuffAndThings.exe.config
+c:\users\user\documents\visual studio 2015\Projects\MoreStuffAndThings\bin\Debug\MoreStuffAndThings.exe
+c:\users\user\documents\visual studio 2015\Projects\MoreStuffAndThings\bin\Debug\MoreStuffAndThings.pdb
+c:\users\user\documents\visual studio 2015\Projects\MoreStuffAndThings\obj\Debug\MoreStuffAndThings.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\MoreStuffAndThings\obj\Debug\MoreStuffAndThings.exe
+c:\users\user\documents\visual studio 2015\Projects\MoreStuffAndThings\obj\Debug\MoreStuffAndThings.pdb

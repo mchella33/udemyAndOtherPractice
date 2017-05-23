@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\MoreReferenceAndValueTypes\MoreReferenceAndValueTypes\bin\Debug\MoreReferenceAndValueTypes.exe.config
+c:\users\user\documents\visual studio 2015\Projects\MoreReferenceAndValueTypes\MoreReferenceAndValueTypes\bin\Debug\MoreReferenceAndValueTypes.exe
+c:\users\user\documents\visual studio 2015\Projects\MoreReferenceAndValueTypes\MoreReferenceAndValueTypes\bin\Debug\MoreReferenceAndValueTypes.pdb
+c:\users\user\documents\visual studio 2015\Projects\MoreReferenceAndValueTypes\MoreReferenceAndValueTypes\obj\Debug\MoreReferenceAndValueTypes.exe
+c:\users\user\documents\visual studio 2015\Projects\MoreReferenceAndValueTypes\MoreReferenceAndValueTypes\obj\Debug\MoreReferenceAndValueTypes.pdb

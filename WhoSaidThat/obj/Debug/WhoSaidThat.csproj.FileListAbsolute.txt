@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\WhoSaidThat\bin\Debug\WhoSaidThat.exe.config
+c:\users\user\documents\visual studio 2015\Projects\WhoSaidThat\bin\Debug\WhoSaidThat.exe
+c:\users\user\documents\visual studio 2015\Projects\WhoSaidThat\bin\Debug\WhoSaidThat.pdb
+c:\users\user\documents\visual studio 2015\Projects\WhoSaidThat\obj\Debug\WhoSaidThat.exe
+c:\users\user\documents\visual studio 2015\Projects\WhoSaidThat\obj\Debug\WhoSaidThat.pdb

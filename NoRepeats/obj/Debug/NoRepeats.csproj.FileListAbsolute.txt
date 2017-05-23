@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\NoRepeats\bin\Debug\NoRepeats.exe.config
+c:\users\user\documents\visual studio 2015\Projects\NoRepeats\bin\Debug\NoRepeats.exe
+c:\users\user\documents\visual studio 2015\Projects\NoRepeats\bin\Debug\NoRepeats.pdb
+c:\users\user\documents\visual studio 2015\Projects\NoRepeats\obj\Debug\NoRepeats.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\NoRepeats\obj\Debug\NoRepeats.exe
+c:\users\user\documents\visual studio 2015\Projects\NoRepeats\obj\Debug\NoRepeats.pdb

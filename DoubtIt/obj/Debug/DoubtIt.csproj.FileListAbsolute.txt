@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\DoubtIt\bin\Debug\DoubtIt.exe.config
+c:\users\user\documents\visual studio 2015\Projects\DoubtIt\bin\Debug\DoubtIt.exe
+c:\users\user\documents\visual studio 2015\Projects\DoubtIt\bin\Debug\DoubtIt.pdb
+c:\users\user\documents\visual studio 2015\Projects\DoubtIt\obj\Debug\DoubtIt.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\DoubtIt\obj\Debug\DoubtIt.exe
+c:\users\user\documents\visual studio 2015\Projects\DoubtIt\obj\Debug\DoubtIt.pdb

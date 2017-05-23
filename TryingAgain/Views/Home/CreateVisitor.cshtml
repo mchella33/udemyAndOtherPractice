@@ -1,0 +1,45 @@
+﻿@using TryingAgain.Models
+@using TryingAgain.Entities
+@model CreateVisitor
+
+
+@{
+    ViewBag.Title = "CreateVisitor";
+}
+
+<h2>CreateVisitor</h2>
+
+@using (Html.BeginForm())
+{
+    @*@Html.ValidationSummary(true)
+    @Html.AntiForgeryToken()*@
+    <fieldset>
+    <legend>Speed Dating Registration</legend>
+    <div class="editor-label">
+        @Html.LabelFor(model => model.Name)
+    </div>
+    <div class="editor-field">
+        @Html.EditorFor(model => model.Name)
+        @Html.ValidationMessageFor(model => model.Name)
+    </div>
+    <div class="editor-label">
+        @Html.LabelFor(model => model.Message)
+    </div>
+    <div class="editor-field">
+        @Html.EditorFor(model => model.Message)
+        @Html.ValidationMessageFor(model => model.Message)
+    </div>
+
+        @*<div class="editor-label">
+            @Html.Label("PostTime")
+        </div>*@
+        <p>
+            <input type="submit" value="Add your name to the Visitor's Log" />
+        </p>
+
+    </fieldset>
+
+    <div>
+        @Html.ActionLink("Visitors Log", "Visitors","Home")
+    </div>
+}

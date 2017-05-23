@@ -1,0 +1,66 @@
+﻿@using TestingV1.Models
+@model TestingV1.Models.TestingSignOffs
+
+@{
+    ViewBag.Title = "EnterTestingData";
+}
+
+
+
+@using (Html.BeginForm())
+{
+   
+    <fieldset>
+        <legend>Begin Testing</legend>
+        <div class="editor-label">
+            @Html.LabelFor(model => model.FirstName)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.FirstName)
+            @Html.ValidationMessageFor(model => model.FirstName)
+        </div>
+        <div class="editor-label">
+            @Html.LabelFor(model => model.LastName)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.LastName)
+            @Html.ValidationMessageFor(model => model.LastName)
+        </div>
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Version)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Version)
+            @Html.ValidationMessageFor(model => model.Version)
+        </div>
+        @*<div class="editor-label">
+            @Html.LabelFor(model => model.VolumeBucket)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.VolumeBucket)
+            @Html.ValidationMessageFor(model => model.VolumeBucket)
+        </div>
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Rank)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Rank)
+            @Html.ValidationMessageFor(model => model.Rank)
+        </div>
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Bonus)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Bonus)
+            @Html.ValidationMessageFor(model => model.Bonus)
+        </div>*@
+        <br />
+        <input type="submit" name="buttonSubmit" value="Submit" />
+        
+
+    </fieldset>
+
+    <div>
+        @Html.ActionLink("Home", "Index", "Home")
+    </div>
+}

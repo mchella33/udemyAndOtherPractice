@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\NewPracticePrograms\bin\Debug\NewPracticePrograms.exe.config
+c:\users\user\documents\visual studio 2015\Projects\NewPracticePrograms\bin\Debug\NewPracticePrograms.exe
+c:\users\user\documents\visual studio 2015\Projects\NewPracticePrograms\bin\Debug\NewPracticePrograms.pdb
+c:\users\user\documents\visual studio 2015\Projects\NewPracticePrograms\obj\Debug\NewPracticePrograms.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\NewPracticePrograms\obj\Debug\NewPracticePrograms.exe
+c:\users\user\documents\visual studio 2015\Projects\NewPracticePrograms\obj\Debug\NewPracticePrograms.pdb

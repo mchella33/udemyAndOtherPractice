@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2015\Projects\ReadAndWrite\ReadAndWrite\bin\Debug\ReadAndWrite.exe.config
+c:\users\user\documents\visual studio 2015\Projects\ReadAndWrite\ReadAndWrite\obj\Debug\ReadAndWrite.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\ReadAndWrite\ReadAndWrite\bin\Debug\ReadAndWrite.exe
+c:\users\user\documents\visual studio 2015\Projects\ReadAndWrite\ReadAndWrite\bin\Debug\ReadAndWrite.pdb
+c:\users\user\documents\visual studio 2015\Projects\ReadAndWrite\ReadAndWrite\obj\Debug\ReadAndWrite.exe
+c:\users\user\documents\visual studio 2015\Projects\ReadAndWrite\ReadAndWrite\obj\Debug\ReadAndWrite.pdb
+c:\users\user\documents\visual studio 2015\Projects\ReadAndWrite\ReadAndWrite\obj\Debug\ReadAndWrite.Resource1.resources
+c:\users\user\documents\visual studio 2015\Projects\ReadAndWrite\ReadAndWrite\obj\Debug\ReadAndWrite.csproj.GenerateResource.Cache

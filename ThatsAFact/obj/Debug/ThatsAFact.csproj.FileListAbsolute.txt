@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\ThatsAFact\bin\Debug\ThatsAFact.exe.config
+c:\users\user\documents\visual studio 2015\Projects\ThatsAFact\bin\Debug\ThatsAFact.exe
+c:\users\user\documents\visual studio 2015\Projects\ThatsAFact\bin\Debug\ThatsAFact.pdb
+c:\users\user\documents\visual studio 2015\Projects\ThatsAFact\obj\Debug\ThatsAFact.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\ThatsAFact\obj\Debug\ThatsAFact.exe
+c:\users\user\documents\visual studio 2015\Projects\ThatsAFact\obj\Debug\ThatsAFact.pdb

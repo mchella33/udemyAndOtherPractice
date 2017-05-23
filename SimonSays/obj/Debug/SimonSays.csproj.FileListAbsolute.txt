@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\SimonSays\bin\Debug\SimonSays.exe.config
+c:\users\user\documents\visual studio 2015\Projects\SimonSays\bin\Debug\SimonSays.exe
+c:\users\user\documents\visual studio 2015\Projects\SimonSays\bin\Debug\SimonSays.pdb
+c:\users\user\documents\visual studio 2015\Projects\SimonSays\obj\Debug\SimonSays.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\SimonSays\obj\Debug\SimonSays.exe
+c:\users\user\documents\visual studio 2015\Projects\SimonSays\obj\Debug\SimonSays.pdb
